@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  7 DEC 2020 19:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  7 DEC 2020 20:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -177,7 +177,7 @@ LaTeX Font Info:    ... okay on input line 21.
 * \footskip=30.0pt
 * \marginparwidth=65.0pt
 * \marginparsep=11.0pt
-* \columnsep=28.45274pt
+* \columnsep=22.76228pt
 * \skip\footins=9.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
@@ -188,40 +188,32 @@ LaTeX Font Info:    ... okay on input line 21.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+
+Overfull \hbox (5.21184pt too wide) in paragraph at lines 22--25
+[]\OT1/cmr/bx/n/20.74 Thavy Thach \OT1/cmr/m/n/8 thavythach@gmail.com | 253.844
+.5812 | \OT1/cmr/bx/n/8 linkedin/github\OT1/cmr/m/n/8 : thavythach | \OT1/cmr/b
+x/n/8 web-site\OT1/cmr/m/n/8 : https://thavy.tech 
+ []
+
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 28.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 28.
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--118
+Underfull \hbox (badness 10000) in paragraph at lines 117--121
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 193--197
+Underfull \hbox (badness 10000) in paragraph at lines 175--189
 
  []
 
 
-! LaTeX Error: There's no line here to end.
+Underfull \hbox (badness 10000) in paragraph at lines 196--200
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.203 \newline
-              \newline\textbf{Certificates}
-? 
+ []
 
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.203 \newline\newline
-                      \textbf{Certificates}
-? 
 [1
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
@@ -229,20 +221,22 @@ l.203 \newline\newline
 Here is how much of TeX's memory you used:
  1388 strings out of 492649
  19260 string characters out of 6129622
- 137002 words of memory out of 5000000
+ 133771 words of memory out of 5000000
  5308 multiletter control sequences out of 15000+600000
  6391 words of font info for 23 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 23i,4n,29p,247b,231s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 23i,4n,29p,313b,229s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2018/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmbx12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmbx8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmbx9.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmr8.pfb>
-Output written on Thavy_Resume.pdf (1 page, 65904 bytes).
+sfonts/cm/cmbx10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmbx12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmbx8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmbx9.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmr8.pfb>
+Output written on Thavy_Resume.pdf (1 page, 89420 bytes).
 PDF statistics:
- 24 PDF objects out of 1000 (max. 8388607)
- 16 compressed objects within 1 object stream
+ 32 PDF objects out of 1000 (max. 8388607)
+ 22 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
