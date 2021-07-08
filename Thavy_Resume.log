@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  7 DEC 2020 21:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  15 MAR 2021 18:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -225,7 +225,7 @@ Overfull \vbox (11.12753pt too high) has occurred while \output is active []
 Here is how much of TeX's memory you used:
  1388 strings out of 492649
  19260 string characters out of 6129622
- 134910 words of memory out of 5000000
+ 134925 words of memory out of 5000000
  5308 multiletter control sequences out of 15000+600000
  6391 words of font info for 23 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -235,7 +235,7 @@ sfonts/cm/cmbx12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/ams
 fonts/cm/cmbx8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmbx9.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmr8.pfb>
-Output written on Thavy_Resume.pdf (1 page, 67880 bytes).
+Output written on Thavy_Resume.pdf (1 page, 68072 bytes).
 PDF statistics:
  24 PDF objects out of 1000 (max. 8388607)
  16 compressed objects within 1 object stream
